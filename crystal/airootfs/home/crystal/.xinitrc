@@ -1,1 +1,2 @@
-exec startplasma-x11
+#exec startplasma-x11
+exec epiphany
