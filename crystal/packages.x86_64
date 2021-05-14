@@ -17,12 +17,15 @@ epiphany
 mesa
 networkmanager
 zsh
+ckbcomp
+curl
 
 # Things we're hosting
 arch-install-scripts
 amethyst
 base
-crystal-misc
+filesystem
 crystal-cli-boot
 crystal-branding
+citrine
 neofetch
