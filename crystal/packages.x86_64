@@ -31,4 +31,8 @@ crystal-cli-boot
 crystal-branding
 citrine
 neofetch
+
+# Cala
 calamares
+os-prober
+rsync
