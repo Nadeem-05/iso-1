@@ -19,6 +19,7 @@ networkmanager
 zsh
 ckbcomp
 curl
+openbsd-netcat
 
 # Things we're hosting
 arch-install-scripts
