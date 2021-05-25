@@ -11,10 +11,9 @@ mkinitcpio
 mkinitcpio-archiso
 openssh
 syslinux
-plasma
-konsole
-firefox
-nemo
+
+epiphany
+
 mesa
 networkmanager
 zsh
