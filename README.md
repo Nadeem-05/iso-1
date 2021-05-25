@@ -1,4 +1,4 @@
-# CrystalISO
+# CrystalISO - Calamares WIP
 Build the Arch-based CrystalUX iso.
 
 ## How to Build:
